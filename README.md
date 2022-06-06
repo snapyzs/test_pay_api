@@ -1,4 +1,5 @@
 # test pay API
+### docker-compose -up для старта
 ```
 POST   /api/create_pay
 body
